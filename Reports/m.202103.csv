@@ -1,0 +1,10 @@
+item_name,is_expense,quantity,sum_of_one
+Icecream,TRUE,12000,1
+Ballons,TRUE,6000,1
+Hotdogs,TRUE,14000,2
+Rent,TRUE,1,20000
+Salaries,TRUE,18,2000
+Marketing,TRUE,1,8000
+Icecream sales,FALSE,11000,4
+Ballons sales,FALSE,5000,3
+Hotdog sales,FALSE,13000,8
